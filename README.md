@@ -207,7 +207,7 @@ Audio
   <a href="https://www.facebook.com/share/1B7tMJL2Nd/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/arnabdas789" target="_blank">
+  <a href="https://www.instagram.com/arnab_das.9" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
   <a href="https://twitter.com/arnabdas789" target="_blank">
@@ -245,7 +245,7 @@ Audio
 · 🌱 Currently learning advanced web technologies
 · 💞️ I'm looking to collaborate on interesting web development projects
 · 📫 Email me at arnabdas78@gmail.com to contact
-· 🤩 Follow me on Instagram: https://www.instagram.com/arnabdas789/
+· 🤩 Follow me on Instagram: https://www.instagram.com/arnab_das.9
 · 💬 Connect with me on LinkedIn: https://www.linkedin.com/in/arnabdas789
 · ✉️ Text me on WhatsApp: https://wa.me/923027844697
 
