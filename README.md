@@ -1,252 +1,356 @@
-Hi there! 👋 I'm Arnab Das
+[![ARNAB-DAS](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=0066FF&background=F7F2F20A&vCenter=true&random=false&width=500&lines=Hello+Everyone+👋;My+Name+is+Arnab+Das;I'm+a+Full-Stack+Developer;I'm+from+Kolkata%2C+India;Nice+to+Meet+You)](https://github.com/arnabdas789)
 
-[![ARNAB-DAS](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Arnab+Das;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-Kolkata;Nice+to+Meet+You)](https://github.com/arnabdas789)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <p align="center">
-  <img src="https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif" width="150" height="150">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="150">
 </p>
 
-<img align="center" height="auto" src="https://cardivo.vercel.app/api?name=Arnab+Das&description=Hi,%20I%27m%20a%20passionate%20developer%20and%20learner%20%F0%9F%91%8B&image=https://files.catbox.moe/sprwxe.jpg&backgroundColor=%23ecf0f1&github=arnabdas789&pattern=leaf&colorPattern=%23eaeaea"/>
+<p align="center">
+  <img align="center" height="auto" src="https://cardivo.vercel.app/api?name=Arnab+Das&description=💻+Full-Stack+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver+🚀&image=https://files.catbox.moe/sprwxe.jpg&backgroundColor=%23ecf0f1&github=arnabdas789&pattern=leaf&colorPattern=%23eaeaea"/>
+</p>
 
 <p align="center"> 
-  Visitor Count<br>
+  <b>👀 Profile Visitors</b><br>
   <img src="https://profile-counter.glitch.me/arnabdas789/count.svg" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Arnab+Das;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
-
-<h1 align="center">Hi 👋, My name is Arnab Das</h1>
-<h3 align="center">I'm a passionate developer and continuous learner</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabdas789&label=Profile%20views&color=0e75b6&style=flat" alt="arnabdas789" /> </p>
-
-<p align="left"><a href="https://github.com/arnabdas789/"><img title="Followers" src="https://img.shields.io/github/followers/arnabdas789?color=blue&style=flat-square"></a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnabdas789" alt="arnabdas789" /></a> </p>
-
-· 📫 How to reach me 👇
-
-<a href="mailto:arnabdas78@gmail.com"><img title="Contact Me" src="https://img.shields.io/badge/CONTACT%20WITH%20ME-h?color=blue&style=for-the-badge&logo=gmail" width="220" height="38.45"/></a>
-
-## My Programming Stats
-
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
-  
- 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidkhan6332&show_icons=true&locale=en&layout=compact" alt="tohidkhan6332" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidkhan6332&" alt="tohidkhan6332" /></p>
-
-
-
-
-
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
-
-
-
-
-
-
-
-
-
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vCenter=true&random=false&width=500&lines=💻+Full-Stack+Developer;⚡+MERN+Stack+Expert;🌟+Open+Source+Contributor;📱+App+Developer;🎯+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
-· 💫 I'm currently working on various web development projects
-· 🌱 I'm currently learning advanced JavaScript frameworks
-· 👯 I'm looking to collaborate on JavaScript projects
-· 💬 Ask me about web development, programming, and tech
-· 📫 How to reach me: arnabdas78@gmail.com
-· ⚡ Fun fact: I love solving complex problems and building innovative solutions
+<h1 align="center">Hi 👋, I'm Arnab Das</h1>
+<h3 align="center">💻 Full-Stack Developer | Problem Solver | Tech Enthusiast from Kolkata, India 🇮🇳</h3>
 
----
-
-## 📊 Languages and Tools
-<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
-
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-
-
-# `Expertise`
-
-Computer Vision
-[████████▒▒](https://github.com/Tohidkhan6332) ✔️  70%
-
-Tabular
-[████████▒▒](https://github.com/Tohidkhan6332) ✔️  89%
-
-Deep Learning
-[██████████](https://github.com/Tohidkhan6332) ✔️  100%
-
-
-Natural Language Processing
-[██▒▒▒▒▒▒▒](https://github.com/Tohidkhan6332) ✔️  10% 「 Translation [███████▒▒▒](https://github.com/Tohidkhan6332)    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/Tohidkhan6332) 」
-
-
-Audio 
-[███▒▒▒▒▒▒](https://github.com/Tohidkhan6332) ✔️  30% 「 Automatic Speech Recognition [█████████▒](https://github.com/Tohidkhan6332) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/Tohidkhan6332) 」
-
-
-
-
-# `🛠 My Stacks`
-> ### Programming Languages
-  
-<div>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
-<div>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-
-> ### Techs, Frameworks & Tools
-
-<div>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Jekyll" src="https://img.shields.io/badge/JEKYLL-floralwhite?style=for-the-badge&logo=jekyll&logoColor=%23db5a6b">
-</div>
-
-
-<div>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-</div>
-
-
-<div>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-
-  <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-   
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-</div>
-
-  <!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-
-<div>
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <!-- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> -->
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-
-
-<div>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <!-- <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> -->
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-</div>
-
-
-  <!-- <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-  <img alt="R Studio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
-
-  <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> -->
-
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-    <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-    </a> 
-  
-  </p>
-
-
----
-
-# 📫 How to reach me:
-
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916291442697?text=Hello+Arnab+Das)
-
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/@ARNB3) 
-
----
-
-<div align="center">🌱 Social Networks:
-
-</div>
+<br>
 
 <p align="center">
-  <a href="https://www.facebook.com/share/1B7tMJL2Nd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  <img src="https://komarev.com/ghpvc/?username=arnabdas789&label=Profile%20Views&color=0066FF&style=flat" alt="arnabdas789" />
+  <a href="https://github.com/arnabdas789">
+    <img src="https://img.shields.io/github/followers/arnabdas789?color=0066FF&style=flat-square&label=Followers" alt="Followers">
   </a>
-  <a href="https://www.instagram.com/arnab_das.9" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/arnabdas789" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/arnabdas789" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@arnabdas789" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  <a href="https://github.com/arnabdas789">
+    <img src="https://img.shields.io/github/stars/arnabdas789?color=gold&style=flat-square&label=Stars" alt="Stars">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arnabdas789&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="arnabdas789" />
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:arnabdas78@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/916291442697?text=Hello%20Arnab!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/ARNB3">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/arnab_das.9">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/arnabdas789">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnabdas789">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1B7tMJL2Nd/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@arnabdas789">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const arnabDas = {
+  name: "Arnab Das",
+  location: "Kolkata, India 🇮🇳",
+  profession: "Full-Stack Developer",
+  education: "Computer Science",
+  
+  passions: [
+    "Web Development",
+    "Problem Solving",
+    "Open Source",
+    "Learning New Technologies"
+  ],
+  
+  currentFocus: "Advanced JavaScript & Cloud Computing",
+  
+  hobbies: [
+    "Coding 💻",
+    "Gaming 🎮",
+    "Reading Tech Blogs 📚",
+    "Traveling 🌍"
+  ],
+  
+  funFact: "I can debug code faster than making tea! ☕",
+  
+  contact: {
+    email: "arnabdas78@gmail.com",
+    whatsapp: "+916291442697",
+    telegram: "@ARNB3",
+    instagram: "@arnab_das.9"
+  }
+};
+```
+
+---
+
+💼 What I Do
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="180">
+</p>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                    DEVELOPMENT SKILLS                    ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  🖥️  Frontend Development    [██████████] 95%           ║
+║  ⚙️  Backend Development     [████████▒▒] 90%           ║
+║  📱  Responsive Design       [██████████] 95%           ║
+║  🗄️  Database Management     [████████▒▒] 85%           ║
+║  🔧  API Development         [██████████] 90%           ║
+║  ☁️  Cloud Services          [██████▒▒▒▒] 65%           ║
+║  🎨  UI/UX Design            [███████▒▒▒] 75%           ║
+║  📊  Performance Optimization [████████▒▒] 85%          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+🛠️ Tech Stack & Tools
+
+💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+🌐 Frontend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+</p>
+
+⚙️ Backend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+🗄️ Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+🔧 Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnabdas789&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabdas789&hide_border=true&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdas789&layout=compact&hide_border=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabdas789&theme=tokyonight&hide_border=true" width="52%" />
+</p>
+
+---
+
+🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/arnabdas789/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnabdas789&repo=project1&theme=tokyonight&show_owner=true" width="45%" />
+  </a>
+  <a href="https://github.com/arnabdas789/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnabdas789&repo=project2&theme=tokyonight&show_owner=true" width="45%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arnabdas789/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnabdas789&repo=project3&theme=tokyonight&show_owner=true" width="45%" />
+  </a>
+  <a href="https://github.com/arnabdas789/project4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arnabdas789&repo=project4&theme=tokyonight&show_owner=true" width="45%" />
+  </a>
+</p>
+
+---
+
+📈 Weekly Coding Stats
+
+```
+💻  Total Hours: 45 hrs 30 mins
+
+📊  Languages:
+    JavaScript       22 hrs 15 mins   ██████████░░░░░░░  48.9%
+    HTML/CSS         10 hrs 30 mins   █████░░░░░░░░░░░░  23.1%
+    Python           6 hrs 45 mins    ███░░░░░░░░░░░░░░  14.8%
+    Java             3 hrs 20 mins    █▒░░░░░░░░░░░░░░░  7.3%
+    Other            2 hrs 40 mins    █░░░░░░░░░░░░░░░░  5.9%
+
+🔥  Most Used Editors:
+    VS Code          38 hrs  ███████████████████  83.5%
+    PyCharm          5 hrs   ███░░░░░░░░░░░░░░░░  11.0%
+    Android Studio   2.5 hrs █▒░░░░░░░░░░░░░░░░░  5.5%
+```
+
+---
+
+🌟 Achievements & Milestones
+
+```
+🏆  Completed 50+ GitHub repositories
+📦  Contributed to 10+ open source projects
+👥  Collaborated with developers worldwide
+📚  Solved 500+ coding problems on various platforms
+🎓  Continuous learner with 5+ certifications
+💼  Experience in both freelance and team projects
+```
+
+---
+
+🤝 Let's Collaborate!
+
+I'm always open to:
+
+· 🔥 Interesting project collaborations
+· 💡 Open source contributions
+· 📝 Technical writing opportunities
+· 🎤 Speaking at tech events
+· 👨‍🏫 Mentoring junior developers
+
+<p align="center">
+  <a href="mailto:arnabdas78@gmail.com?subject=Collaboration%20Opportunity">
+    <img src="https://img.shields.io/badge/LET'S_COLLABORATE-0066FF?style=for-the-badge&logo=gmail&logoColor=white" width="250" height="50"/>
+  </a>
+</p>
+
+---
+
+📱 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/arnabdas789">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnabdas789">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/arnabdas789">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/arnab_das.9">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1B7tMJL2Nd/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@arnabdas789">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://t.me/ARNB3">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+📧 Quick Contact
+
+<p align="center">
+  <a href="mailto:arnabdas78@gmail.com">
+    <img src="https://img.shields.io/badge/arnabdas78@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/916291442697">
+    <img src="https://img.shields.io/badge/+916291442697-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <a href="https://www.github.com/arnabdas789" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arnabdas789" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-  </a>
-  <a href="https://www.youtube.com/@arnabdas789" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-  </a>
+  <img src='https://i.imgur.com/LyHic3i.gif'/>
+
+⭐ "Code is like humor. When you have to explain it, it's bad." ⭐
+
+https://github.com/arnabdas789/arnabdas789/blob/output/github-contribution-grid-snake.svg
+
+  <img src='https://i.imgur.com/LyHic3i.gif'/>
+
+🙏 Thanks for Visiting!
+
+💫 Don't forget to follow me for more amazing content! 💫
+
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> 😊</em>
+
+  <img src='https://i.imgur.com/LyHic3i.gif'/>
 </div>
-
----
-
-⚡ Arnab Das INFO
-
-ℹ️  <a href="https://github.com/arnabdas789"><img title="My GitHub" src="https://img.shields.io/badge/ARNAB%20INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a>
-
-· 😊 I'm Arnab Das
-· 💻 Passionate about coding and technology
-· 👀 I'm interested in Web Development, Programming, and Open Source
-· 🌱 Currently learning advanced web technologies
-· 💞️ I'm looking to collaborate on interesting web development projects
-· 📫 Email me at arnabdas78@gmail.com to contact
-· 🤩 Follow me on Instagram: https://www.instagram.com/arnab_das.9
-· 💬 Connect with me on LinkedIn: https://www.linkedin.com/in/arnabdas789
-· ✉️ Text me on WhatsApp: https://wa.me/923027844697
-
----
