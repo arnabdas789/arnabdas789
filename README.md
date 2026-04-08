@@ -193,7 +193,7 @@ Audio
 
 # 📫 How to reach me:
 
-[![Via WhatsApp](https://img.slhields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ 4915510640523?text=Hello+Arnab+Das)
+[![Via WhatsApp](https://img.slhields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/4915510640523?text=Hello+Arnab+Das)
 
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/@ARNB3) 
 
