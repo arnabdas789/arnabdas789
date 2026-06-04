@@ -244,7 +244,7 @@ Audio
 <!-- RECENT ACTIVITY -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> **RECENT ACTIVITY** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> **ARNAB,S WORLD** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
 
 </div>
 
@@ -323,7 +323,6 @@ Audio
 <!-- BACKEND -->
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> **Backend Development**
 
 <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" /></a>
