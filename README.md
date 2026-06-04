@@ -18,7 +18,7 @@ Hi there! 👋 I'm Arnab Das
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Arnab+Das;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, My name is Arnab Das</h1>
-<h3 align="center">I'm a passionate developer and continuous learner</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabdas789&label=Profile%20views&color=0e75b6&style=flat" alt="arnabdas789" /> </p>
 
