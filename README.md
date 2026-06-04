@@ -286,6 +286,85 @@ Audio
 </div>
 
 <br/>
+  <img src="https://img.shields.io/github/followers/jamesdevoff?label=Followers&style=for-the-badge&color=ff1493&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00CED1?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lives-Worldwide-8A2BE2?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Available%20For%20Hire-success?style=for-the-badge&logo=statuspage" alt="Status" />
+</div>
+
+<br/>
+
+<!-- GITHUB PROFILE 3D CONTRIB -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
+</div>
+
+<br/>
+
+<!-- ANIMATED ABOUT ME SECTION -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **ABOUT ME** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</div>
+
+
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+<!-- TECH STACK WITH ANIMATED ICONS -->
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **TECH ARSENAL** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+
+</div>
+
+<!-- FRONTEND -->
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" /> **Frontend Development**
+
+<a href="https://reactjs.org/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="65" height="65" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="SASS" width="65" height="65" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" /></a>
+<a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" width="65" height="65" alt="Three.js" /></a>
+
+</div>
+
+<!-- BACKEND -->
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> **Backend Development**
+
+<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" /></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" /></a>
+<a href="https://www.python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" /></a>
+<a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" /></a>
+<a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" /></a>
+
+</div>
+
+<!-- DATABASE -->
+<div align="center">
 # ARNAB-MD 👨‍💻 🇱🇰  
 ### A Powerful JavaScript WhatsApp User Bot  
 
