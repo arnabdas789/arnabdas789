@@ -48,8 +48,9 @@ Hi there! 👋 I'm Arnab Das
 
 · 📫 How to reach me 👇
 
-- [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.me/916291442697)
-
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+916291442697)
+- [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/+916291442697)
+- [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?
 <a href="mailto:arnab876@gmail.com"><img title="Contact Me" src="https://img.shields.io/badge/CONTACT%20WITH%20ME-h?color=blue&style=for-the-badge&logo=gmail" width="220" height="38.45"/></a>
 
 
