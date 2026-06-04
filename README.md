@@ -250,14 +250,9 @@ Audio
 · ✉️ Text me on WhatsApp: https://wa.me/916291442697
 # ARNAB-MD 👨‍💻 🇱🇰  
 ### A Powerful JavaScript WhatsApp User Bot  
-<p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="ARNAB-MD Logo" src="https://telegra.ph/file/1743544c222ffd613c219.jpg" width="300">
-  </a>  
-</p>  
----
+
 ## 🌟 About ARNAB-MD   
-**ARNAB-MD** is an advanced JavaScript-based WhatsApp bot that empowers users with versatile features, including:  
+ is an advanced JavaScript-based WhatsApp bot that empowers users with versatile features, including:  
 - Auto-reply  
 - Auto-voice  
 - Auto-sticker  
