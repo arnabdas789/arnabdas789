@@ -28,6 +28,7 @@ Hi there! 👋 I'm Arnab Das
 
 · 📫 How to reach me 👇
 - [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+- (https://wa.me/1(640)2917051?text=Hello+Arnab+Das)
 <a href="mailto:arnab876@gmail.com"><img title="Contact Me" src="https://img.shields.io/badge/CONTACT%20WITH%20ME-h?color=blue&style=for-the-badge&logo=gmail" width="220" height="38.45"/></a>
 
 
@@ -171,15 +172,7 @@ Audio
 
 ---
 
-# 📫 How to reach me:
-
-[![Via WhatsApp](https://img.slhields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1(640)2917051?text=Hello+Arnab+Das)
-
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/@ARNB3) 
-
----
-
-<div align="center">🌱 Social Networks:
+# iv align="center">🌱 Social Networks:
 
 </div>
 
