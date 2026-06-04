@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Arnab Das
+BHi there! 👋 I'm Arnab Das
 
 [![ARNAB-DAS](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Arnab+Das;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-Kolkata;Nice+to+Meet+You)](https://github.com/arnabdas789)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -381,7 +381,6 @@ Audio
 
 <!-- DATABASE -->
 <div align="center">
-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jamesdevoff)
 
 </div>
 
