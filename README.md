@@ -248,16 +248,16 @@ Audio
 · 🤩 Follow me on Instagram: https://www.instagram.com/arnab_das.9
 · 💬 Connect with me on LinkedIn: https://www.linkedin.com/in/arnabdas789
 · ✉️ Text me on WhatsApp: https://wa.me/916291442697
-# PRABATH-MD 👨‍💻 🇱🇰  
+# ARNAB-MD 👨‍💻 🇱🇰  
 ### A Powerful JavaScript WhatsApp User Bot  
 <p align="center">  
   <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="PRABATH-MD Logo" src="https://telegra.ph/file/1743544c222ffd613c219.jpg" width="300">
+    <img alt="ARNAB-MD Logo" src="https://telegra.ph/file/1743544c222ffd613c219.jpg" width="300">
   </a>  
 </p>  
 ---
-## 🌟 About PRABATH-MD   
-**PRABATH-MD** is an advanced JavaScript-based WhatsApp bot that empowers users with versatile features, including:  
+## 🌟 About ARNAB-MD   
+**ARNAB-MD** is an advanced JavaScript-based WhatsApp bot that empowers users with versatile features, including:  
 - Auto-reply  
 - Auto-voice  
 - Auto-sticker  
@@ -278,11 +278,11 @@ Powered by **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 </p>  
 ---
 ## 🚀 Quick Start  
-### Deploy Your Own **PRABATH-MD Bot**  
+### Deploy Your Own **ARNAB-MD Bot**  
 <p align="center">  
-  <a href="https://www.prabath-md-official-web.com/">  
-    <img src="https://img.shields.io/badge/DEPLOY-CLICK%20HERE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Deploy PRABATH-MD">  
+  <a href="https://www.arnab-md-official-web.com/">  
+    <img src="https://img.shields.io/badge/DEPLOY-CLICK%20HERE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Deploy ARNAB-MD">  
   </a>  
 </p>  
 ### Fork This Repository  
-[![Fork PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white?style=for-the-badge)]
+[![Fork ARNAB-MD](https://img.shields.io/badge/FORK%20-ARNAB%20MD-white?style=for-the-badge)]
