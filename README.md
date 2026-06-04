@@ -425,7 +425,7 @@ badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jamesd
 - And much more!  
 Powered by arnab
 
-(https://github.com/arnabSockets/Baileys)**  
+  
 ---
 ## 📊 Project Insights  
 <p align="center">  
