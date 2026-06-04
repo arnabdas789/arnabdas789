@@ -252,8 +252,8 @@ Audio
 · 👀 I'm interested in Web Development, Programming, and Open Source
 · 🌱 Currently learning advanced web technologies
 · 💞️ I'm looking to collaborate on interesting web development projects
-· 📫 Email me at arnabdas78@gmail.com to contact
-· 🤩 Follow me on Instagram: https://www.instagram.com/arnab_das.9
+· 📫 Email me at arnb876@gmail.com to contact
+· 🤩 Follow me on Instagram: https://www.instagram.com/arnabdas_789
 · 💬 Connect with me on LinkedIn: https://www.linkedin.com/in/arnabdas789
 · ✉️ Text me on WhatsApp: https://wa.me/916291442697
 
