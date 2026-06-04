@@ -49,7 +49,7 @@ Hi there! 👋 I'm Arnab Das
 · 🌱 I'm currently learning advanced JavaScript frameworks
 · 👯 I'm looking to collaborate on JavaScript projects
 · 💬 Ask me about web development, programming, and tech
-· 📫 How to reach me: arnabdas78@gmail.com
+
 · ⚡ Fun fact: I love solving complex problems and building innovative solutions
 
 ---
