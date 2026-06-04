@@ -28,7 +28,7 @@ Hi there! 👋 I'm Arnab Das
 
 · 📫 How to reach me 👇
 
-<a href="mailto:arnabdas78@gmail.com"><img title="Contact Me" src="https://img.shields.io/badge/CONTACT%20WITH%20ME-h?color=blue&style=for-the-badge&logo=gmail" width="220" height="38.45"/></a>
+<a href="mailto:arnab876@gmail.com"><img title="Contact Me" src="https://img.shields.io/badge/CONTACT%20WITH%20ME-h?color=blue&style=for-the-badge&logo=gmail" width="220" height="38.45"/></a>
 
 ## My Programming Stats
 
@@ -48,7 +48,7 @@ Hi there! 👋 I'm Arnab Das
 
 
 
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arnab&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 
 
 
