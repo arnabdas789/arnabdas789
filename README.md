@@ -248,6 +248,44 @@ Audio
 · 🤩 Follow me on Instagram: https://www.instagram.com/arnab_das.9
 · 💬 Connect with me on LinkedIn: https://www.linkedin.com/in/arnabdas789
 · ✉️ Text me on WhatsApp: https://wa.me/916291442697
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> **CONTRIBUTION SNAKE** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamesdevoff/jamesdevoff/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamesdevoff/jamesdevoff/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jamesdevoff/jamesdevoff/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+<!-- RECENT ACTIVITY -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> **RECENT ACTIVITY** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
 # ARNAB-MD 👨‍💻 🇱🇰  
 ### A Powerful JavaScript WhatsApp User Bot  
 
