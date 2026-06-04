@@ -30,26 +30,6 @@ Hi there! 👋 I'm Arnab Das
 
 <a href="mailto:arnab876@gmail.com"><img title="Contact Me" src="https://img.shields.io/badge/CONTACT%20WITH%20ME-h?color=blue&style=for-the-badge&logo=gmail" width="220" height="38.45"/></a>
 
-## My Programming Stats
-
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
-  
- 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidkhan6332&show_icons=true&locale=en&layout=compact" alt="tohidkhan6332" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidkhan6332&" alt="tohidkhan6332" /></p>
-
-
-
-
-
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arnab&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
-
 
 
 
@@ -430,12 +410,12 @@ badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jamesd
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
+<h1 align="center">Hi 👋, My name is Arnab Das</h1>
 <br/>
-  # ARNAB-MD 👨‍💻 🇱🇰  
-### A Powerful JavaScript WhatsApp User Bot  
+  #   
+### A Powerful JavaScript WhatsApp User
 
-## 🌟 About ARNAB-MD   
+## 🌟  
  is an advanced JavaScript-based WhatsApp bot that empowers users with versatile features, including:  
 - Auto-reply  
 - Auto-voice  
