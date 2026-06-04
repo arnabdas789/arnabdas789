@@ -264,13 +264,13 @@ Audio
 - Customization capabilities  
 - Logo creation and image editing  
 - And much more!  
-Powered by **[Baileys](https://github.com/WhiskeySockets/Baileys)**  
+Powered by **[arnab](https://github.com/arnabSockets/Baileys)**  
 ---
 ## 📊 Project Insights  
 <p align="center">  
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2Fprabath-?ulti-device&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Total Views">  
-  <img src="https://img.shields.io/github/forks/prabathLK/prabath-multi-device?label=Forks&style=social" alt="Forks">  
-  <img src="https://img.shields.io/github/stars/prabathLK/prabath-multi-device?style=social" alt="Stars">  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FarnabLK%2Farnab-?ulti-device&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Total Views">  
+  <img src="https://img.shields.io/github/forks/arnabLK/arnab-multi-device?label=Forks&style=social" alt="Forks">  
+  <img src="https://img.shields.io/github/stars/arnabLK/arnab-multi-device?style=social" alt="Stars">  
 </p>  
 #### 📈 Contribution Graph  
 <p align="center">  
