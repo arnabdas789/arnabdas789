@@ -365,7 +365,74 @@ Audio
 
 <!-- DATABASE -->
 <div align="center">
-# ARNAB-MD 👨‍💻 🇱🇰  
+badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jamesdevoff)
+
+</div>
+
+<br/>
+
+<!-- NOW PLAYING (LOGO VERSION — NO AUDIO) -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="35"/> NOW PLAYING <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="35"/>
+
+<img src="https://files.catbox.moe/hbtpyr.jpg" width="400"/>
+
+### 🎧 Camin — Emin
+</div>
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="35" /> **RANDOM DEV QUOTE** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="35" />
+
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_category=programming&border=true&border_color=FF1493" />
+</div>
+
+<br/>
+
+<!-- RANDOM DEV MEME -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" width="35" /> **RANDOM DEV MEME** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" width="35" />
+
+</div>
+
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Meme"/>
+</div>
+
+<br/>
+
+<!-- SUPPORT ME -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="35" /> **SUPPORT ME** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="35" />
+
+</div>
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jamesdevoff)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jamesdevoff)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jamesdevoff)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jamesdevoff)
+
+</div>
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+  # ARNAB-MD 👨‍💻 🇱🇰  
 ### A Powerful JavaScript WhatsApp User Bot  
 
 ## 🌟 About ARNAB-MD   
