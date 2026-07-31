@@ -46,6 +46,38 @@ BHi there! 👋 I'm Arnab Das
 </table>
 
 
+<div align="center">
+  <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <a href="https://onyx.name89maggiotht.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-1B4B75?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://jp.linkedin.com/in/masaki-fukunishi">
+    <img src="https://img.shields.io/badge/LinkedIn-B87A3D?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:masakifukunishi2000@outlook.com">
+    <img src="https://img.shields.io/badge/Email-9A5555?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/onyx766">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
+
+
 · 📫 How to reach me 👇
 
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+916291442697)
